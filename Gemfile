@@ -62,7 +62,7 @@ group :development do
   gem "web-console"
 end
 
-gem "active_storage_validations", "~> 2.0", ">= 2.0.2"
+gem "active_storage_validations", "~> 2.0"
 gem "aws-sdk", "~> 3.2"
 gem "aws-sdk-core", "~> 3.219"
 gem "aws-sdk-s3", "~> 1.182"
